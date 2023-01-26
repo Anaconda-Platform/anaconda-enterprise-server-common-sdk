@@ -1,5 +1,14 @@
 # Anaconda Enterprise Server Common SDK
 
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=shapeandshare_anaconda.enterprise.server.common.sdk&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=shapeandshare_anaconda.enterprise.server.common.sdk)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=shapeandshare_anaconda.enterprise.server.common.sdk&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=shapeandshare_anaconda.enterprise.server.common.sdk)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=shapeandshare_anaconda.enterprise.server.common.sdk&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=shapeandshare_anaconda.enterprise.server.common.sdk)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=shapeandshare_anaconda.enterprise.server.common.sdk&metric=coverage)](https://sonarcloud.io/summary/new_code?id=shapeandshare_anaconda.enterprise.server.common.sdk)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=shapeandshare_anaconda.enterprise.server.common.sdk&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=shapeandshare_anaconda.enterprise.server.common.sdk)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=shapeandshare_anaconda.enterprise.server.common.sdk&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=shapeandshare_anaconda.enterprise.server.common.sdk)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=shapeandshare_anaconda.enterprise.server.common.sdk&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=shapeandshare_anaconda.enterprise.server.common.sdk)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=shapeandshare_anaconda.enterprise.server.common.sdk&metric=bugs)](https://sonarcloud.io/summary/new_code?id=shapeandshare_anaconda.enterprise.server.common.sdk)
+
 Overview
 --------
 Anaconda Enterprise Server Common SDK
