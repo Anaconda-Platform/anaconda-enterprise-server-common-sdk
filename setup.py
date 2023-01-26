@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="anaconda.enterprise.server.common.sdk",
-    version="0.4.4",
+    version="0.4.5",
     package_dir={"": "src"},
     packages=setuptools.find_namespace_packages(where="src"),
     author="Joshua C. Burt",
