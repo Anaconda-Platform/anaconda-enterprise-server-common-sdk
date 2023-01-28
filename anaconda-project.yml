@@ -50,7 +50,7 @@ commands:
       cd docs && make clean && make html
 
 channels:
-    - default
+    - defaults
     - https://conda.anaconda.org/conda-forge/
 
 platforms:
@@ -63,7 +63,7 @@ env_specs:
   default:
     description: Development Environment
     packages:
-      - python=3.8
+      - python=3.10
       - ipykernel
       - isort
       - black
